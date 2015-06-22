@@ -1,0 +1,1 @@
+iReader is a offline ebook reading application on Android platform. It supports TXT, CHM, PDB(EReader, Mobipocket), UMD(popular Chinese ebook format), HTML and Image files. iReader is not a open source project as so far, but you can get free version from Android market. And here you can submit any defect, requirement.
